@@ -1,0 +1,3 @@
+server:
+  port: 8080
+#  ./gradlew bootBuildImage --imageName=mutluokuducu/surrey:0.2

@@ -1,0 +1,16 @@
+input[type=radio] {
+    width: 23px;
+    height: 23px;
+}
+
+
+
+td
+{
+    text-align: center;
+    vertical-align: middle;
+}
+
+tr:nth-child(even) {
+  background-color: #40E0D0;
+}
